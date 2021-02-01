@@ -1,7 +1,7 @@
 # 28-01_Inheritance_II
 Übungsaufgabe für das Programmierpraktikum im Wise 20/21 zum 28.01.2021
 
-# Willkommen bei der siebten Übungsaufgabe.
+# Willkommen bei der achten Übungsaufgabe.
 
 Diese Woche kurz und knapp! Es geht nur darum das Override mal anzuwenden und ein Gefühl zu entwickeln, wie man Klassen sinnvoll aufbaut. Also eher eine Frage des "Design" einer Klasse.
 
